@@ -1,0 +1,9 @@
+function Header() {
+  return (
+    <header>
+      <h1>My Profile Page UI</h1>
+    </header>
+  );
+}
+
+export default Header;
